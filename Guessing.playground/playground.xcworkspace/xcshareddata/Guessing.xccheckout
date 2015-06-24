@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4F1DDF7-32E8-4A52-A260-4F0BA88BC9E7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Guessing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DDD34E6C36ED0E674228C826E2FE3C33538C9331</key>
+		<string>https://github.com/blayhem/Swift-projects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Guessing.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DDD34E6C36ED0E674228C826E2FE3C33538C9331</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/blayhem/Swift-projects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DDD34E6C36ED0E674228C826E2FE3C33538C9331</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DDD34E6C36ED0E674228C826E2FE3C33538C9331</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift-projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
